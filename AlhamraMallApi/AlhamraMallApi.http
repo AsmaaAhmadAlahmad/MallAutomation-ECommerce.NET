@@ -1,0 +1,6 @@
+@AlhamraMallApi_HostAddress = http://localhost:5228
+
+GET {{AlhamraMallApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
